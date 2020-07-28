@@ -1,0 +1,146 @@
+{
+  "categorias": [
+    {
+      "titulo": "Começando a correr",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Leia: 5 dicas para quem vai começar",
+        "url": "https://drauziovarella.uol.com.br/atividade-fisica/cinco-dicas-para-quem-vai-comecar-a-correr/"
+      },
+      "videos": [
+        {
+          "titulo": "COMECE A CORRER HOJE!!!",
+          "url": "https://www.youtube.com/watch?v=5Cggks4cMOw"
+        },
+        {
+          "titulo": "Como começar a correr",
+          "url": "https://www.youtube.com/watch?v=JZ03g3NCg_Y"
+        },
+        {
+          "titulo": "Dicas práticas pra quem tá començando na corrida",
+          "url": "https://www.youtube.com/watch?v=_KWVbYf2YcQ"
+        },
+        {
+          "titulo": "Corrida para iniciantes",
+          "url": "https://www.youtube.com/watch?v=25BZ6t-LUJ4"
+        },
+        {
+          "titulo": "5 Dicas para começar a correr",
+          "url": "https://www.youtube.com/watch?v=qkEa6H4DMcc"
+        },
+        {
+          "titulo": "7 erros na corrida",
+          "url": "https://www.youtube.com/watch?v=VcLq368Xcr0"
+        }       
+      ]
+    },
+    {
+      "titulo": "Escolhendo um tênis",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Leia: Tênis para iniciantes",
+        "url": "https://www.tenisbook.com/tenis-barato-para-corrida-e-corredores-iniciantes/"
+      },
+      "videos": [
+        {
+          "titulo": "7 Dicas para escolher o tênis ideal",
+          "url": "https://www.youtube.com/watch?v=VXuZYImehRg"
+        },
+        {
+          "titulo": "Como escolher o seu tênis de corrida",
+          "url": "https://www.youtube.com/watch?v=neG3Xmia87g"
+        },
+        {
+          "titulo": "Qual o melhor tênis para correr?",
+          "url": "https://www.youtube.com/watch?v=IOxni8K0Uyo"
+        },
+        {
+          "titulo": "5 Dicas para escolher o seu primeiro tênis",
+          "url": "https://www.youtube.com/watch?v=O_aif_80w2M"
+        }
+      ]
+    },
+    {
+      "titulo": "Acessórios",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Leia: Dicas de acessórios para corrida",
+        "url": "https://www.guiatenis.com/blog/acessorios-para-corrida/"
+      },
+      "videos": [
+        {
+          "titulo": "Acessórios baratos e realmente úteis",
+          "url": "https://www.youtube.com/watch?v=WfF1XqhWHPc"
+        },
+        {
+          "titulo": "Os melhores acessórios para corrida",
+          "url": "https://www.youtube.com/watch?v=SKcpYLZpPHg"
+        },
+        {
+          "titulo": "6 Acessórios para corrida",
+          "url": "https://www.youtube.com/watch?v=Xwfbx6J2JyI"
+        },
+        {
+          "titulo": "7 Acessórios indispensáveis",
+          "url": "https://www.youtube.com/watch?v=VztXqJZImjA&t=10s"
+        }
+      ]
+    },
+    {
+      "titulo": "Corrida de rua",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Leia: Como se preparar para sua primeira corrida de rua",
+        "url": "https://www.redbull.com/br-pt/Como-se-preparar-para-sua-primeira-corrida-de-rua"
+      },
+        "videos": [
+        {
+          "titulo": "Entenda os tipos de treino na corrida de rua",
+          "url": "https://www.youtube.com/watch?v=pU7NGyts0C4"
+        },
+        {
+          "titulo": "7 erros comuns na corrida de rua",
+          "url": "https://www.youtube.com/watch?v=gm4TvSTf2ps"
+        },
+        {
+          "titulo": "10 dicas para sua primeira corrida de rua",
+          "url": "https://www.youtube.com/watch?v=ZAUI7DQ_cRc"
+        },
+        {
+          "titulo": "O que é um tempo bom em uma prova para um amador?",
+          "url": "https://www.youtube.com/watch?v=tlSdjA4eIsk&t=50s"
+        }
+      ]
+    },
+    {
+      "titulo": "Relógio GPS",
+      "cor": "red",
+      "link_extra": {
+        "text": "Leia: Melhores relógios de corrida",
+        "url": "https://www.pocket-lint.com/pt-br/rastreadores-de-fitness/guias-comprador/136563-melhores-relogios-de-corrida-e-relogios-esportivos-gps-para-corredores-comprar"
+      },
+      "videos": [
+        {
+          "titulo": "5 relógios GPS para iniciantes",
+          "url": "https://www.youtube.com/watch?v=0wj41nwt3Io"
+        },
+        {
+          "titulo": "3 relógios GPS para iniciantes na corrida",
+          "url": "https://www.youtube.com/watch?v=9uhTmIjemD0"
+        },
+        {
+          "titulo": "O melhor GPS para corredores",
+          "url": "https://www.youtube.com/watch?v=eNxCjQawAXE"
+        },
+        {
+          "titulo": "Relógio GPS é indispensável",
+          "url": "https://www.youtube.com/watch?v=DNZxHQDKY8M"
+        },
+        {
+          "titulo": "Quase tudo sobre GPS de corrida",
+          "url": "https://www.youtube.com/watch?v=ZiKj2tN2jNw"
+        }
+      ]
+    }
+  ]
+}
