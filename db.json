@@ -10,7 +10,7 @@
       }
     },
     {
-      "id": 2
+      "id": 2,
       "titulo": "Escolhendo um tênis",
       "cor": "#00C86F",
       "link_extra": {
@@ -19,7 +19,7 @@
       }
     },
     {
-      "id": 3
+      "id": 3,
       "titulo": "Acessórios",
       "cor": "#9cd33b",
       "link_extra": {
@@ -28,16 +28,7 @@
       }
     },
     {
-      "id": 3
-      "titulo": "Acessórios",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Leia: Dicas de acessórios para corrida",
-        "url": "https://www.guiatenis.com/blog/acessorios-para-corrida/"
-      }
-    },
-    {
-      "id": 4
+      "id": 4,
       "titulo": "Corrida de rua",
       "cor": "orange",
       "link_extra": {
@@ -46,7 +37,7 @@
       }
     },
     {
-      "id": 5
+      "id": 5,
       "titulo": "Relógio GPS",
       "cor": "red",
       "link_extra": {
@@ -59,134 +50,147 @@
     {
       "id": 1,
       "categoriaId": 1,
-          "titulo": "Como começar a correr",
-          "url": "https://www.youtube.com/watch?v=JZ03g3NCg_Y"
-        },
-        {
+      "titulo": "COMECE A CORRER HOJE!!!",
+      "description": "Você está querendo começar a correr? Correr é um esporte muito simples. Basta você calçar um par de tênis. Entretanto, se você quer evoluir, você precisa seguir uma metodologia e orientações.",
+      "url": "https://www.youtube.com/watch?v=5Cggks4cMOw"
+    },
+    {
       "id": 2,
       "categoriaId": 1,
-          "titulo": "Dicas práticas pra quem tá començando na corrida",
-          "url": "https://www.youtube.com/watch?v=_KWVbYf2YcQ"
-        },
-        {
+      "titulo": "Como começar a correr",
+      "url": "https://www.youtube.com/watch?v=JZ03g3NCg_Y"
+    },
+    {
       "id": 3,
       "categoriaId": 1,
-          "titulo": "Corrida para iniciantes",
-          "url": "https://www.youtube.com/watch?v=25BZ6t-LUJ4"
-        },
-        {
+      "titulo": "Dicas práticas pra quem tá començando na corrida",
+      "url": "https://www.youtube.com/watch?v=_KWVbYf2YcQ"
+    },
+    {
       "id": 4,
       "categoriaId": 1,
-          "titulo": "5 Dicas para começar a correr",
-          "url": "https://www.youtube.com/watch?v=qkEa6H4DMcc"
-        },
-        {
+      "titulo": "Corrida para iniciantes",
+      "url": "https://www.youtube.com/watch?v=25BZ6t-LUJ4"
+    },
+    {
       "id": 5,
       "categoriaId": 1,
-          "titulo": "7 erros na corrida",
-          "url": "https://www.youtube.com/watch?v=VcLq368Xcr0"
-        },
-        {
+      "titulo": "5 Dicas para começar a correr",
+      "url": "https://www.youtube.com/watch?v=qkEa6H4DMcc"
+    },
+    {
       "id": 6,
-      "categoriaId": 2,
-          "titulo": "7 Dicas para escolher o tênis ideal",
-          "url": "https://www.youtube.com/watch?v=VXuZYImehRg"
-        },
-        {
+      "categoriaId": 1,
+      "titulo": "7 erros na corrida",
+      "url": "https://www.youtube.com/watch?v=VcLq368Xcr0"
+    },
+    {
       "id": 7,
       "categoriaId": 2,
-          "titulo": "Como escolher o seu tênis de corrida",
-          "url": "https://www.youtube.com/watch?v=neG3Xmia87g"
-        },
-        {
+      "titulo": "7 Dicas para escolher o tênis ideal",
+      "url": "https://www.youtube.com/watch?v=VXuZYImehRg"
+    },
+    {
       "id": 8,
       "categoriaId": 2,
-          "titulo": "Qual o melhor tênis para correr?",
-          "url": "https://www.youtube.com/watch?v=IOxni8K0Uyo"
-        },
-        {
+      "titulo": "Como escolher o seu tênis de corrida",
+      "url": "https://www.youtube.com/watch?v=neG3Xmia87g"
+    },
+    {
       "id": 9,
       "categoriaId": 2,
-          "titulo": "5 Dicas para escolher o seu primeiro tênis",
-          "url": "https://www.youtube.com/watch?v=O_aif_80w2M"
-        },
-        {
+      "titulo": "Qual o melhor tênis para correr?",
+      "url": "https://www.youtube.com/watch?v=IOxni8K0Uyo"
+    },
+    {
       "id": 10,
-      "categoriaId": 3,
-          "titulo": "Acessórios baratos e realmente úteis",
-          "url": "https://www.youtube.com/watch?v=WfF1XqhWHPc"
-        },
-        {
+      "categoriaId": 2,
+      "titulo": "5 Dicas para escolher o seu primeiro tênis",
+      "url": "https://www.youtube.com/watch?v=O_aif_80w2M"
+    },
+    {
       "id": 11,
       "categoriaId": 3,
-          "titulo": "Os melhores acessórios para corrida",
-          "url": "https://www.youtube.com/watch?v=SKcpYLZpPHg"
-        },
-        {
+      "titulo": "Acessórios baratos e realmente úteis",
+      "url": "https://www.youtube.com/watch?v=WfF1XqhWHPc"
+    },
+    {
       "id": 12,
       "categoriaId": 3,
-          "titulo": "6 Acessórios para corrida",
-          "url": "https://www.youtube.com/watch?v=Xwfbx6J2JyI"
-        },
-        {
+      "titulo": "Os melhores acessórios para corrida",
+      "url": "https://www.youtube.com/watch?v=SKcpYLZpPHg"
+    },
+    {
       "id": 13,
       "categoriaId": 3,
-          "titulo": "7 Acessórios indispensáveis",
-          "url": "https://www.youtube.com/watch?v=VztXqJZImjA&t=10s"
-        },
-        {
+      "titulo": "6 Acessórios para corrida",
+      "url": "https://www.youtube.com/watch?v=Xwfbx6J2JyI"
+    },
+    {
       "id": 14,
-      "categoriaId": 4,
-          "titulo": "Entenda os tipos de treino na corrida de rua",
-          "url": "https://www.youtube.com/watch?v=pU7NGyts0C4"
-        },
-        {
+      "categoriaId": 3,
+      "titulo": "7 Acessórios indispensáveis",
+      "url": "https://www.youtube.com/watch?v=VztXqJZImjA&t=10s"
+    },
+    {
       "id": 15,
       "categoriaId": 4,
-          "titulo": "7 erros comuns na corrida de rua",
-          "url": "https://www.youtube.com/watch?v=gm4TvSTf2ps"
-        },
-        {
+      "titulo": "Entenda os tipos de treino na corrida de rua",
+      "url": "https://www.youtube.com/watch?v=pU7NGyts0C4"
+    },
+    {
       "id": 16,
       "categoriaId": 4,
-          "titulo": "10 dicas para sua primeira corrida de rua",
-          "url": "https://www.youtube.com/watch?v=ZAUI7DQ_cRc"
-        },
-        {
+      "titulo": "7 erros comuns na corrida de rua",
+      "url": "https://www.youtube.com/watch?v=gm4TvSTf2ps"
+    },
+    {
       "id": 17,
       "categoriaId": 4,
-          "titulo": "O que é um tempo bom em uma prova para um amador?",
-          "url": "https://www.youtube.com/watch?v=tlSdjA4eIsk&t=50s"
-        },
-        {
+      "titulo": "10 dicas para sua primeira corrida de rua",
+      "url": "https://www.youtube.com/watch?v=ZAUI7DQ_cRc"
+    },
+    {
       "id": 18,
-      "categoriaId": 5,
-          "titulo": "5 relógios GPS para iniciantes",
-          "url": "https://www.youtube.com/watch?v=0wj41nwt3Io"
-        },
-        {
+      "categoriaId": 4,
+      "titulo": "O que é um tempo bom em uma prova para um amador?",
+      "url": "https://www.youtube.com/watch?v=tlSdjA4eIsk&t=50s"
+    },
+    {
       "id": 19,
       "categoriaId": 5,
-          "titulo": "3 relógios GPS para iniciantes na corrida",
-          "url": "https://www.youtube.com/watch?v=9uhTmIjemD0"
-        },
-        {
+      "titulo": "5 relógios GPS para iniciantes",
+      "url": "https://www.youtube.com/watch?v=0wj41nwt3Io"
+    },
+    {
       "id": 20,
       "categoriaId": 5,
-          "titulo": "O melhor GPS para corredores",
-          "url": "https://www.youtube.com/watch?v=eNxCjQawAXE"
-        },
-        {
+      "titulo": "3 relógios GPS para iniciantes na corrida",
+      "url": "https://www.youtube.com/watch?v=9uhTmIjemD0"
+    },
+    {
       "id": 21,
       "categoriaId": 5,
-          "titulo": "Relógio GPS é indispensável",
-          "url": "https://www.youtube.com/watch?v=DNZxHQDKY8M"
-        },
-        {
+      "titulo": "O melhor GPS para corredores",
+      "url": "https://www.youtube.com/watch?v=eNxCjQawAXE"
+    },
+    {
       "id": 22,
       "categoriaId": 5,
-          "titulo": "Quase tudo sobre GPS de corrida",
-          "url": "https://www.youtube.com/watch?v=ZiKj2tN2jNw"
+      "titulo": "Relógio GPS é indispensável",
+      "url": "https://www.youtube.com/watch?v=DNZxHQDKY8M"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Quase tudo sobre GPS de corrida",
+      "url": "https://www.youtube.com/watch?v=ZiKj2tN2jNw"
+    },
+    {
+      "titulo": "Correndo com 2 tênis diferentes",
+      "url": "https://www.youtube.com/watch?v=7i9VyS595qs",
+      "categoriaId": 2,
+      "id": 24
     }
   ]
 }
